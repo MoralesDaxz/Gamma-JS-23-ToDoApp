@@ -38,7 +38,7 @@ btnAdd.innerText=`To Do!`
 btnClear.innerText=`Clear`
 btnAdd.style=`font-weight:600;width: 60px; background-attachment: #3de7a6;`//background-color:#3de7a6
 btnClear.style=`font-weight:600;width:50px`
-input.style=`text-align:center;border-radius:2px;color:white;background-color:#0F3248;outline-style: solid 1px #5cc3ff`
+input.style=`text-align:center;border-radius:2px;color:white;background-color:#185174;outline:none;border:solid 1px #5cc3ff`
 //#endregion
 //#region Funcionalidad
 
