@@ -25,11 +25,11 @@ divBtns.appendChild(btnAdd)
 divBtns.appendChild(btnClear)
 
 body.style=`font-family:courier;display:flex; flex-direction:column; align-items:center;background-image:url(./img1.jpg);background-repeat:no-repeat;background-size: cover;`
-divText1.style=`display:flex; flex-direction:column; align-items:center;width:300px;height:100PX;background-color:transparent;margin-top:1%;border-radius:5px;border: 3px solid black`
+divText1.style=`display:flex; flex-direction:column; align-items:center;width:300px;height:100PX;background-color:transparent;margin-top:1%;border-radius:5px;border: 3px solid #5cc3ff`
 divText2.style=`display:flex; flex-direction:column; align-items:center;width:303px;height:130PX;background-color:#0D2330;margin-top:1%;padding-bottom:2%;border-radius:5px;border: 3px solid #5cc3ff`
 divBtns.style=`display:flex; flex-direction:arow; justify-content:space-around;width:300PX;background-color:transparent;margin-top:10%;border-radius:5px`
 divContentTareas.style=`display:flex; flex-direction:column; background-color:transparent;width:300px;margin-top:1%;border-radius:5px` 
-
+//
 h1.innerText=`To Do - App`
 h3.innerText=`Type a new To-Do`
 h1.style=`font-size: 45px`
